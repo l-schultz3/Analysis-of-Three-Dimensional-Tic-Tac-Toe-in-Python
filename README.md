@@ -5,7 +5,7 @@ Tic-tac-toe is a universally known game. What has helped the game become almost 
 
 ## Checking for a Drawn Three Dimensional Game
 
-* below is an explanation of the program checkFor3DDraw.py *
+*below is an explanation of the program checkFor3DDraw.py*
 
 A game of three dimensional is best understood as a combination of three two dimensional games, stacked on top of each other. With this definition, it becomes much simpler to extend work into the third dimension. When talking about a three dimensional game, I use the terms plane index, and dimensional index. Plane index refers to the positioning in the second dimension, running from 0 to 8, with 0 at the top left, and 8 at the bottom right. Dimensional index refers to the position in the stack of two dimensional games, running from 0 to 2, with 0 being the top, and 2 being the bottom.
 
